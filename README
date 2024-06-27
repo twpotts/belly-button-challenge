@@ -7,7 +7,7 @@ Folder contents:
 static
     js
         .gitkeep
-    app.js
+        app.js
 index.html
 README
 samples.json
