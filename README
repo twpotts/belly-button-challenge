@@ -1,0 +1,18 @@
+Description:
+
+This projects create a Javascript webpage to analyze some data on bacteria
+
+Folder contents:
+
+static
+    js
+        .gitkeep
+    app.js
+index.html
+README
+samples.json
+
+Contact info:
+
+Tyler Potts
+twpotts11@gmail.com
